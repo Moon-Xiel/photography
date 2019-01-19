@@ -1,0 +1,103 @@
+/* Media Queries */
+@media screen and (max-width: 500px) {
+
+
+	.social img {
+		height: 100px;
+	}
+
+	.copyright p {
+		font-size: 20px;
+	}
+
+
+}
+
+/* Media Queries Index */
+
+@media screen and (max-width: 500px) {
+
+	section .middle img {
+		width: 80%;
+		height: auto;
+	}
+
+	.middle p {
+		padding: 1px;
+		margin-top: 20px;
+		font-size: 20px;
+	}
+
+	.middle {
+		flex-direction: column;
+	}
+
+	.galery img {
+
+		width: 50%;
+		height: 50%;
+	}
+}
+
+@media screen and (max-width: 1024px) {
+
+	section .first {
+		display: flex;
+	}
+
+	.middle {
+		flex-direction: column;
+	}
+
+	.galery img {
+		width: 50%;
+		height: 50%;
+	}
+}
+
+/* Media Queries about */
+
+@media screen and (max-width: 420px) {
+
+	img .selfie {
+		width: 500px;
+	}
+
+	.middle a img {
+		width: 100px;
+		height: auto;
+	}
+
+	.bottom .social img {
+		height: 100px;
+	}
+
+}
+
+/* Media Queries contact */
+
+@media screen and (max-width: 420px) {
+
+	fieldset {
+		width: 70%;
+		padding: 30px
+	}
+
+	label {
+		font-size: 25px;
+
+	}
+
+	input {
+		height: 20px;
+		float: none;
+	}
+
+	.submit #submit {
+		float: right;
+	}
+
+	section .callto img {
+		width: 90px;
+	}
+}

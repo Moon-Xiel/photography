@@ -1,0 +1,25 @@
+/* Typography */
+h1 {
+	font-family: 'Indie Flower', cursive;
+	font-size: 40px;
+	color: #F2D3DD;
+	text-shadow: white 2px 5px;
+
+}
+
+h2 {
+	font-family: 'Indie Flower', cursive;
+	font-size: 45px;
+	color: #C7B1D8;
+	text-shadow: white 2px 5px;
+}
+
+p {
+	font-family: 'Thasadith', sans-serif;
+	font-size: 25px;
+	color: #C7B1D8;
+}
+
+footer p {
+	color: white;
+}

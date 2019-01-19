@@ -1,0 +1,38 @@
+/* Header Begin */
+
+header {
+	margin-bottom: 15px;
+
+}
+
+header .logo {
+	display: block;
+	height: 300px;
+	margin: 0 auto 20px;
+}
+
+h1 {
+	text-align: center;
+	margin-top: -5%;
+}
+
+.nav {
+	height: auto;
+	text-align: center;
+
+}
+
+
+.nav a {
+	font-family: 'Indie Flower', cursive;
+	font-size: 30px;
+	color: white;
+	text-decoration: none;
+	margin: 5%;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+/* Header End */

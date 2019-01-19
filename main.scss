@@ -1,0 +1,49 @@
+/* Background color */
+
+body {
+  background-image: url(img/background.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.top {
+  background-color: RGBA(203, 241, 222);
+}
+
+.nav {
+  background-color: RGBA(199, 177, 216);
+}
+
+section {
+  background-color: RGBA(255, 255, 255, 0.9);
+}
+
+.bottom {
+  background-color: RGBA(199, 177, 216);
+}
+
+/* Header Begin */
+
+header {
+  margin-bottom: 15px;
+  .logo {
+    display: block;
+    height: 300px;
+    margin: 0 auto 20px;
+  }
+}
+
+h1 {
+  text-align: center;
+  margin-top: -5%;
+}
+
+/* Header End */
+
+/* Section Begin */
+
+section img, .icontop {
+  display: block;
+  height: 150px;
+  margin: 0 auto;
+}

@@ -1,0 +1,23 @@
+
+section .maternity img {
+	height: 300px;
+	border: solid #B6A2CC;
+	border-radius: 30px;
+}
+
+section p {
+	text-align: center;
+	
+}
+
+section .newborn img {
+	height: 300px;
+	border: solid #B6A2CC;
+	border-radius: 30px;
+}
+
+section .baby img {
+	height: 300px;
+	border: solid #B6A2CC;
+	border-radius: 30px;
+}
